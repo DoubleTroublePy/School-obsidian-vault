@@ -1,0 +1,3 @@
+# Metamorfiche
+
+Le rocce superficali sia [[Magmatice]] che [[Sedimentarie]] possono essere coperte da altri sedimenti o coinvolti in muovimenti della crosta terrestre, vengono quindi portate in profondita dove diventano instabili e subiscono il <b>processo metamorfico</b> che da origine alle <b>roccie metamorfiche</b>. Ma se la temperatura supera i 600/1200 C si ha il processo di <b>rifusione</b> che da origine a roccie [[Magmatice]].

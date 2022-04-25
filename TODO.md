@@ -1,7 +1,4 @@
 # Geologia
-- [[Magmatice]]
-- [[Metamorfiche]]
-- [[Sedimentarie]]
 - [[Litosfera]]
 - [[Ciclo litogenetico]]
 - [[endogeni]]
