@@ -5,3 +5,4 @@
 Corrente prettamente inglese fatta risalire a Ruggero Bacone -> Guglielmo di Ockam -> Francesco Bacone -> [[Hobbes]] --> [[Locke]].
 
 #pag 281
+
