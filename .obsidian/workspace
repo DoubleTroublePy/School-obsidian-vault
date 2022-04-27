@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "95c18615c6e3bfa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c85819ff48397655",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fisica/Potenziale.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2f56a074f75dbd26",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Fisica/Potenziale.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b5546dfcc6b1cca",
+    "type": "split",
+    "children": [
+      {
+        "id": "80c016b23e3f925c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5df3d1c94d74dfde",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eff228cd4b65046b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "table",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f651002302e08972",
+    "type": "split",
+    "children": [
+      {
+        "id": "718ad899ac6d77b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5ea56d4b99fb2c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fisica/Potenziale.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c85819ff48397655",
+  "lastOpenFiles": [
+    "Fisica/Potenziale.md",
+    "Fisica/Conduttori.md",
+    "Geologia/Magma.md",
+    "Fisica/Campo elettrico.md",
+    "TODO.md",
+    "Geologia/Minerali/Ciclo litogenetico.md",
+    "Geologia/Minerali/Classificazione dei minerali.md",
+    "Geologia/Minerali/I minerali.md",
+    "Geologia/Minerali/Propieta fisiche dei minerali.md",
+    "Geologia/Minerali/Litosfera.md"
+  ]
+}

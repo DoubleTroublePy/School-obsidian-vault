@@ -11,4 +11,7 @@
 	- 59$
 
 # Inglese
-- pag 182,183 ==> with exercises 
+- pag 182,183 ==> with exercises
+
+# Fisica 
+- recuperare lezioni

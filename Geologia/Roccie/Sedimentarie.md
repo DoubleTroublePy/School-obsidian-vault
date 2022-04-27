@@ -1,3 +1,0 @@
-# Sedimentarie
-Le roccie [[Magmatiche]] possone essere innalzate fino a formare catene montuose, che sottoposte agli agenti atmosferici si possono disgregare per fenomeni chimici e meccanici.
-Poi il vento o l acqua li trarpostano ai dei luoghi di accumulo (mari, pianure) e qui daranno origine hai dei cosidetti sedimenti. Piu si innalza lo strato piu i sedimenti inferiori vengono sottoposti a pressione che provoca un processo di cementificazione detto _diagenesi_, che colclude il <b>processo sedimendario</b> e le trasforma in <b>roccie sedimentarie</b>. Le rocce sedimentarie possone anche essere formate da scheletri di organismi o per precipitazione chimica di sostanze insolubili.
