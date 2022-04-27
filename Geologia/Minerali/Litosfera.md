@@ -2,4 +2,4 @@
 [[Ciclo litogenetico]]
 Spessa:
 100km
-[[Magmatice]]
+[[Magmatiche]]

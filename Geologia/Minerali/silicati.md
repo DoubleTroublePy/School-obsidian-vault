@@ -1,9 +1,11 @@
 # Silicati
 ## Silicato femici e sialici
 
-In base alle lore caratteristiche chimiche e fisiche possiamo dividere i silicaati in due grandi categorie
+In base alle lore caratteristiche chimiche e fisiche possiamo dividere i silicati in due grandi categorie
 	- minerali femici o (mafici)
 	- minerali sialici o (felsici)
+
+![[femici-sialici.png]]
 
 ## Classificazione
 - Neosilicati

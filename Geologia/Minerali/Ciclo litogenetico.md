@@ -1,10 +1,10 @@
 # Ciclo litogenetico
 <b>Processo responsabile della formazione delle rocce, detto anche ciclo delle rocce.</b> 
  
-## Roccie
+## Rocce
 <b>Aggregato solido e compatto di uno o piu </b>
-Le roccie si dividono in:
-- [[Magmatice]]
+Le rocce si dividono in:
+- [[Magmatiche]]
 - [[Metamorfiche]]
 - [[Sedimentarie]]
 
