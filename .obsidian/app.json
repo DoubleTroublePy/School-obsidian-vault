@@ -4,8 +4,8 @@
   "showLineNumber": true,
   "spellcheck": true,
   "spellcheckLanguages": [
-    "en-US",
-    "it-IT"
+    "it-IT",
+    "en-US"
   ],
   "vimMode": true
 }

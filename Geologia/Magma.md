@@ -65,3 +65,4 @@ rocce [[Magmatiche]]
 		<td>Prodotti</td> <td>Basalto molto frequente gabbro molto raro</td> <td>Riolite molto rara granito molto frequente</td>
 	</tr>
 </table>
+

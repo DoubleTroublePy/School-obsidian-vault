@@ -35,14 +35,14 @@ Rispetto a Hobbes, [[Locke]]  e a uno livello superiore.
 
 <b>Per Hobbes ognuno ha un diritto su tutto.</b>
 
-Per Hobbes lo stato di natura e' uno stato di guerra  di tutti contro tutti. L'unico modo di uscirne e' cedere queste liberta ed affidare tutti questi poteri a uno o piu figure che siano capaci di preservare il bene fondamentale cio la vita. Quindi ci puo essere la pena di morte, ma non arbitraria. Hobbes non inserisce chi controlla i controllori. Questo lo dobbiamo poi a [[Montesquieu]].
-Ma se anche il monarca non rispetasse questi diritti bisognerebbe tenerlo piuttosto che tornare al guerra naturale.
+Per Hobbes lo stato di natura e' uno stato di guerra  di tutti contro tutti. L'unico modo di uscirne e' cedere queste liberta ed affidare tutti questi poteri a uno o più figure che siano capaci di preservare il bene fondamentale ciò la vita. Quindi ci può essere la pena di morte, ma non arbitraria. Hobbes non inserisce chi controlla i controllori. Questo lo dobbiamo poi a [[Montesquieu]].
+Ma se anche il monarca non rispettasse questi diritti bisognerebbe tenerlo piuttosto che tornare al guerra naturale.
 
 <b>Quanto siamo disposti a cedere della nostra liberta per avere sicurezza.</b>
 
 <table>
 	<tr>
-		<td>xxxxxxxxxxx</td>
+		<td></td>
 		<td>tradisce </td>	
 		<td>non tradisce </td>
 	</tr>
@@ -57,3 +57,25 @@ Ma se anche il monarca non rispetasse questi diritti bisognerebbe tenerlo piutto
 		<td>1;1</td>
 	</tr>
 </table>
+
+Ha una prospettiva <b>contrattualistica</b> del <b>giusnaturalismo</b> lo fa usando il <b>geometrismo politico</b> pretendo da degli assiomi.
+--> Desiderio naturale 
+--> Ragione naturale
+
+[[Grozio]] --> socievolezza e razionalità dell'uomo.
+Hobbes --> istinto naturale dell'uomo.
+
+Legge naturale --> diretto dettame della ragione.
+- cercare e conseguire la pace in quanto si ha la speranza per ottenerla e quando non si può avere sfruttare la guerra --> <b>Pax est puaerenda</b>
+- quanta libertà vedo nell'altro tanta libertà ho io --> <b>lus inomia est retinundum</b>
+- osservare la parola data
+
+se tutto e basato solo sui patti i patti possono essere infatti solo sulle conseguenze. --> il leviatano.
+
+#pag 294
+
+- patto irreversibile e univoco.
+- potere indivisibile
+- giudizio sul bene sul male
+
+Hobbes sostiene che per esistere questo stato non possa esistere libertà di pensiero. 

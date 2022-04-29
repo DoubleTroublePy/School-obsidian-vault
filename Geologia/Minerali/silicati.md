@@ -28,4 +28,3 @@ In base alle lore caratteristiche chimiche e fisiche possiamo dividere i silicat
 	- serpentino
 - Tettosilicati
 	- quarzo
-

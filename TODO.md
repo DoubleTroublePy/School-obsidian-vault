@@ -1,17 +1,19 @@
 # Geologia
-- add missing lesson
-- pag  0 --> 45
-- pag 45 --> 48
+- [ ] add missing lesson
+- [ ] ibridizzazione
+- [ ] pag  0 --> 45
+- [ ] pag 45 --> 48
 
 # Filosofia
-- [[Razionalismo]] --> aggiungere cartesio
+- [ ] [[Razionalismo]] --> aggiungere cartesio
+- [ ] [[Locke]] --> importare #pag316 
 
 # Matematica
-- 1335 
-	- 59$
+- [x] 1335 
+	- [x] 59
 
 # Inglese
-- pag 182,183 ==> with exercises
+- [x] pag 182,183 ==> with exercises
 
 # Fisica 
-- recuperare lezioni
+- [ ] recuperare lezioni

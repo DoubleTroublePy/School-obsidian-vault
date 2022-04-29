@@ -10,4 +10,3 @@ sono dette <b> roccie magmatice </b> le rocce generate da questo processo e si s
 	--> processo lento e graduale
 	--> se la formazione avviene in profondità
 	--> cristallizzazione ben definita
-
