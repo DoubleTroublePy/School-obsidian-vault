@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Condensatore.md",
+            "file": "Italiano/Leopardi.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Condensatore.md",
+            "file": "Italiano/Leopardi.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Condensatore.md",
+                "file": "Italiano/Leopardi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "f3f5fbd22f912a70",
   "lastOpenFiles": [
+    "Italiano/Leopardi.md",
+    "TODO.md",
     "Condensatore.md",
     "Fisica/Potenziale.md",
+    "Fisica/Campo elettrico.md",
     "Fisica/Conduttori.md",
-    "TODO.md",
-    "Filosofia/persone/Locke.md",
-    "Filosofia/persone/Hobbes.md",
-    "Filosofia/Empirismo.md",
-    "Filosofia/Empirismo e Razionalismo.md",
-    "Matematica/Funzioni.md",
-    "readme.md"
+    "Geologia/Minerali/Struttura cristallina dei minerali.md",
+    "Geologia/immagini/celle-elementari-tabella.png",
+    "Geologia/Minerali/silicati.md",
+    "Filosofia/persone/Locke.md"
   ]
 }

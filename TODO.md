@@ -17,3 +17,8 @@
 
 # Fisica 
 - [ ] recuperare lezioni
+
+# Italiano
+- [ ] cap 25 --> 344
+- [ ] cap 26
+- [ ] 
