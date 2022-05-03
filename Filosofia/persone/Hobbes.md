@@ -20,7 +20,7 @@ La concezione di Hoobs e' una concezione <b>Nominalista</b>, sempli simbolo/segn
 Tutto cio fonda il centro del pensioro di Hobbes --> il leviatano ==> opera politica.
 Fonda la possibilita di trattare la politica come una scienza. Vuole dimostrare scientificamente come la politica possa funzionare.
 
-#pag 283-284 
+//pag 283-284 
 
 L'etica e' studiabile in modo scientifico perche e' creta dell uomo, questo porta Hobbes che il bene e il male non sono qualcose di assouluto. Il bene e il male dipendono da una valutazione personale.
 Il nucleo del pensioro Hobbsiano e la politica -- sintetzzata --> Leviatano.
@@ -31,7 +31,7 @@ Giusnaturalismo ==> studio delle leggi naturali che regolavano le interazioni um
 
 Rispetto a Hobbes, [[Locke]]  e a uno livello superiore.
 
-#pag 286
+//pag 286
 
 <b>Per Hobbes ognuno ha un diritto su tutto.</b>
 
@@ -72,7 +72,7 @@ Legge naturale --> diretto dettame della ragione.
 
 se tutto e basato solo sui patti i patti possono essere infatti solo sulle conseguenze. --> il leviatano.
 
-#pag 294
+//pag 294
 
 - patto irreversibile e univoco.
 - potere indivisibile

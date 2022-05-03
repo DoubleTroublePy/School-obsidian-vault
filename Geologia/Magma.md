@@ -62,7 +62,27 @@ rocce [[Magmatiche]]
 		<td>Arrivo in superficie</td> <td>Molto frequente</td> <td>Molto raro</td>
 	</tr>
 	<tr>
-		<td>Prodotti</td> <td>Basalto molto frequente gabbro molto raro</td> <td>Riolite molto rara granito molto frequente</td>
+		<td>Prodotti</td> <td>Basalto --> molto frequente <br> gabbro --> molto raro</td> <td>Riolite --> molto rara <br> granito --> molto frequente</td>
 	</tr>
 </table>
 
+Serie di Bowen
+// serie ottimale
+// il più delle volte cristallizzazione frazionata
+- Continue
+	Con abbassamento di temperatura si ha il
+	- plagioclasio calcio --> anortite
+	- plagioclasio sodio --> albite 
+- Discontinue
+	In equilibrio a diversi condizioni di temperatura e di pressione
+	- olivine
+	- pirosseno 
+	- anfiboli
+	- albite || biotite
+
+// convergenza
+
+- kfeldispato
+- muscovite
+- quarzo
+- pegmatite

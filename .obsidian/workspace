@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Italiano/Leopardi.md",
+            "file": "TODO.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Italiano/Leopardi.md",
+            "file": "TODO.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -44,7 +44,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1,
+              "scale": 1.319255845042774,
               "close": false
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "table",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Leopardi.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "f3f5fbd22f912a70",
   "lastOpenFiles": [
-    "Italiano/Leopardi.md",
     "TODO.md",
-    "Condensatore.md",
-    "Fisica/Potenziale.md",
-    "Fisica/Campo elettrico.md",
-    "Fisica/Conduttori.md",
-    "Geologia/Minerali/Struttura cristallina dei minerali.md",
-    "Geologia/immagini/celle-elementari-tabella.png",
-    "Geologia/Minerali/silicati.md",
-    "Filosofia/persone/Locke.md"
+    "Bertley.md",
+    "Filosofia/persone/Locke.md",
+    "Filosofia/persone/Hobbes.md",
+    "Filosofia/persone/Cartesio.md",
+    "Geologia/Magma.md",
+    "readme.md",
+    "Italiano/Leopardi.md",
+    "Fisica/Condensatore.md",
+    "Fisica/Potenziale.md"
   ]
 }
